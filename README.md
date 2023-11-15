@@ -192,8 +192,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![image](https://github.com/22003197/softweb/assets/124332243/4bb4830a-8e59-4639-82d0-6ce61a85f329)
+![image](https://github.com/22003197/softweb/assets/124332243/353b038c-5c83-45db-8197-eb69fff270b1)
+![image](https://github.com/22003197/softweb/assets/124332243/a8279544-d730-462f-a443-cff701db9585)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
